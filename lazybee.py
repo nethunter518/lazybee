@@ -38,7 +38,7 @@ print (blue+b+"<><><><><><><><><><><><><><><><><><><><><>"+b+blue)
 print (" ")
 lista=[0 for x in xrange(length)]
 x=length-1
-string="abcdefghijklmnopqrstuvwxyz1234567890!@#$%^&*"
+string="0123456789"
 list_of_results=[]
 file1=file(name,"w")
 while(x>-1):
